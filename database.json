@@ -1,0 +1,266 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "nature"
+    },
+    {
+      "id": 2,
+      "name": "museum"
+    },
+    {
+      "id": 3,
+      "name": "shopping"
+    },
+    {
+      "id": 4,
+      "name": "other"
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Mammoth Cave National Park",
+      "description": "Mammoth Cave National Park is located in Kentucky and is home to the world's longest known cave system. It also features hiking trails and other outdoor activities.",
+      "category_id": 1,
+      "address": "1 Mammoth Cave Pkwy, Mammoth Cave, KY 42259",
+      "drive": 1.5,
+      "image": "https://www.nps.gov/common/uploads/cropped_image/primary/548B411E-AFC0-A309-265E19C32D8FD499.jpg?width=1600&quality=90&mode=crop"
+    },
+    {
+      "id": 2,
+      "name": "Jack Daniel's Distillery",
+      "description": "Jack Daniel's Distillery is located in Lynchburg, TN and offers tours and tastings of its famous whiskey.",
+      "category_id": 2,
+      "address": "133 Lynchburg Hwy, Lynchburg, TN 37352",
+      "drive": 1.25,
+      "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/72/8f/ad.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Rock Island State Park",
+      "description": "This unique park features the Pottawatomie Lighthouse as well as stone buildings built by a wealthy inventor who owned the island between 1910 and 1964. Rock Island offers rustic, walk-in campsites, hiking trails, a swimming beach and miles of shoreline to explore.",
+      "category_id": 1,
+      "address": "200 River St, Chattanooga, TN 37405",
+      "drive": 1.5,
+      "image": "https://www.ucbjournal.com/wp-content/uploads/2020/06/32FBFD18-060E-47AF-891A-B7909E15D0EE.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Great Smoky Mountains National Park",
+      "description": "Great Smoky Mountains National Park is located in Tennessee and North Carolina and offers stunning mountain views, hiking trails, and wildlife viewing opportunities.",
+      "category_id": 1,
+      "address": "107 Park Headquarters Rd, Gatlinburg, TN 37738",
+      "drive": 3.5,
+      "image": "https://national-park.com/wp-content/uploads/2016/04/Welcome-to-Great-Smoky-Mountains-National-Park.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Fall Creek Falls State Park",
+      "description": "Fall Creek Falls State Park is a 26,000-acre park located in southeastern Tennessee. It features waterfalls, hiking trails, and camping facilities.",
+      "category_id": 1,
+      "address": "2009 Village Camp Rd, Spencer, TN 38585",
+      "drive": 2.5,
+      "image": "https://tnstateparks.com/assets/images/content-images/blog/314/aldenemmonsfcf.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Tennessee Safari Park",
+      "description": "A drive-thru zoo with over 400 animals!",
+      "category_id": 1,
+      "address": "618 Conley Rd, Alamo, TN 38001",
+      "drive": 2.5,
+      "image": "http://cdn.travalliancemedia.com/images/99999999-9999-9999-9999-999999999999/89f3324a-d724-e511-8b9f-0050568e420d/source.JPG"
+    },
+    {
+      "id": 7,
+      "name": "Unclaimed Baggage",
+      "description": "The nation's only lost luggage store- shop through people's stuff from their unclaimed baggage at this huge thrift-style store!",
+      "category_id": 3,
+      "address": "509 W Willow St, Scottsboro, AL 35768",
+      "drive": 2.5,
+      "image": "https://lh3.googleusercontent.com/p/AF1QipM_wFS0YdE_OQ3rc91VPzyC6P1M9M87IVgD3pbl=s1360-w1360-h1020"
+    },
+    {
+      "id": 8,
+      "name": "National Civil Rights Museum At the Lorraine Motel",
+      "description": "The National Civil Rights Museum, located at the Lorraine Motel, honors and preserves the legacy of Dr. Martin Luther King, Jr. We chronicle the American civil rights movement and tell the story of the ongoing struggle for human rights.",
+      "category_id": 2,
+      "address": "450 Mulberry St, Memphis, TN 38103",
+      "drive": 2.5,
+      "image": "https://lp-cms-production.imgix.net/2020-11/GettyImages-148932626-lorraine-3022d6f3072a.jpg?auto=format&q=75&w=1024"
+    },
+    {
+      "id": 9,
+      "name": "Graceland",
+      "description": "Visit Elvis Presley's Memphis at Graceland, our 200,000 square foot entertainment complex featuring museums, restaurants, gift shops, and more.",
+      "category_id": 2,
+      "address": "Elvis Presley Blvd, Memphis, TN 38116",
+      "drive": 3,
+      "image": "https://media.architecturaldigest.com/photos/62a201b9c03eceeaa1e6dfe5/master/w_1600,c_limit/BT988J.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Cookeville Antique Mall",
+      "description": "A clean and friendly multi-vendor antique mall with over 9000 sq. ft of antique wonders to sift through!",
+      "category_id": 3,
+      "address": "402 Dubois Rd, Cookeville, TN 38501",
+      "drive": 1,
+      "image": "https://photo2.sunsphere.net/?id=1D0807FF-4F9B-4D4D-BF0A-8D824D76E74D&width=800&ext=jpg"
+    },
+    {
+      "id": 11,
+      "name": "Loretta Lynn's Ranch",
+      "description": "Sit back, relax, and enjoy live music during weekend campfire shows, get a tan by the pool, reel in the big fish, or get wet tubing or kayaking down beautiful Hurricane Creek. Be sure to check out the many gift shop and museums located in Western Town.",
+      "category_id": 2,
+      "address": "8000 Highway 13 South, Hurricane Mills, TN 37078",
+      "drive": 1,
+      "image": "https://images.wideopencountry.com/wp-content/uploads/2020/06/Loretta-Lynn-ranch.png"
+    },
+    {
+      "id": 12,
+      "name": "Chickamauga & Chattanooga National Military Park",
+      "description": "Park at the site of 2 Civil War battles, featuring trails, visitor centers & an archeological site.",
+      "category_id": 2,
+      "address": " 110 Point Park Rd, Lookout Mountain, TN 37350",
+      "drive": 2.5,
+      "image": "https://www.nps.gov/chch/learn/images/Point-Park-Gate-history-web-size.jpg?maxwidth=650&autorotate=false&quality=78&format=webp"
+    },
+    {
+      "id": 13,
+      "name": "Springfield Antique Barn",
+      "description": "Springfield's largest antique store with more than 130 Vendors",
+      "category_id": 3,
+      "address": "700 Willow St, Springfield, TN, United States, Tennessee",
+      "drive": 1,
+      "image": "https://robertsoncountysource.com/wp-content/uploads/2022/11/springfield-antique-barn.jpg"
+    },
+    {
+      "name": "cumberland caverns",
+      "description": "With almost 30 miles of caves and underground passageways, incredible underground rock formations, beautiful underground waterfalls, and gleaming pools, there is plenty of fun and adventure for everyone!\n",
+      "address": "1437 Cumberland Caverns Rd. McMinnville, Tennessee 37110",
+      "category_id": 1,
+      "drive": 2,
+      "image": "https://www.visitmusiccity.com/sites/www/files/styles/member_slider_image/public/externals/61efe3daf1a1a75a13bd61b63234badb.jpg?itok=Plolz_1Y",
+      "id": 14
+    },
+    {
+      "name": "fakeland",
+      "description": "place!",
+      "address": "somewhere",
+      "category_id": 1,
+      "drive": 2,
+      "image": "",
+      "id": 15
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "fullName": "John Doe",
+      "email": "john.doe@example.com",
+      "isAdmin": false
+    },
+    {
+      "id": 2,
+      "fullName": "skye kaericher",
+      "email": "skaericher@gmail.com",
+      "isAdmin": true
+    },
+    {
+      "id": 3,
+      "fullName": "Bob Johnson",
+      "email": "bob.johnson@example.com",
+      "isAdmin": false
+    },
+    {
+      "id": 4,
+      "fullName": "Samantha Brown",
+      "email": "samantha.brown@example.com",
+      "isAdmin": false
+    },
+    {
+      "id": 5,
+      "fullName": "Mark Wilson",
+      "email": "mark.wilson@example.com",
+      "isAdmin": false
+    },
+    {
+      "email": "skyekaericher@gmail.com",
+      "fullName": "skye kaericher",
+      "isAdmin": true,
+      "id": 6
+    },
+    {
+      "email": "beebswilks@comcast.net",
+      "fullName": "beeboo wilkins",
+      "isAdmin": false,
+      "id": 7
+    },
+    {
+      "email": "crisiscoldbrew@gmail.com",
+      "fullName": "skye kaericher",
+      "isAdmin": true,
+      "id": 8
+    },
+    {
+      "email": "hannahsacc0unt@mail.com",
+      "fullName": "hannah h",
+      "isAdmin": true,
+      "id": 9
+    },
+    {
+      "email": "hannahsacc0unt@mail.com",
+      "fullName": "hannah h",
+      "isAdmin": true,
+      "id": 10
+    }
+  ],
+  "savedTrips": [
+    {
+      "id": 1,
+      "userId": 1,
+      "locationId": 1
+    },
+    {
+      "locationId": 2,
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "locationId": 7,
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "locationId": 8,
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "locationId": 9,
+      "userId": 1,
+      "id": 5
+    },
+    {
+      "locationId": 12,
+      "userId": 6,
+      "id": 7
+    },
+    {
+      "locationId": 3,
+      "userId": 6,
+      "id": 8
+    },
+    {
+      "locationId": 10,
+      "userId": 6,
+      "id": 9
+    },
+    {
+      "locationId": 5,
+      "userId": 6,
+      "id": 10
+    }
+  ]
+}
